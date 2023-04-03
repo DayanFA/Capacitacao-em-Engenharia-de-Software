@@ -10,7 +10,7 @@ Dentre os aprendizados que obtive duranta a execução da atividade 1
 # Dúvida
 Dentre as dúvidas que sugiram durante a execução da atividade 1
 
-• Queria colocar data com ano, mês e dia, e usar número inteiro para as notas, mas quando uso "int nota = Convert.ToInt32(campo_nota.Text);", ou quando faço o mesmo pra data, usando "DateTime data = DateTime.Parse(campo_data.Text);", ele fala que a string ta errada dai não consigo enviar, nem editar, consigo deletar apenas, a única solução foi usar float pra burlar tudo, mas mesmo assim não achei tão legal e passei umas horas tentando resolver, mas não conseguir.
+• Queria colocar data com ano, mês e dia, e usar número inteiro para as notas, mas quando uso "int nota = Convert.ToInt32(campo_nota.Text);", ou quando faço o mesmo pra data, usando "DateTime data = DateTime.Parse(campo_data.Text);", ele fala que a string ta errada dai não consigo enviar, nem editar, consigo deletar apenas, a única solução foi usar float pra burlar tudo e reduzir apenas para ano.
 
 • Queria colocar uma "lista corrida", ou seja, uma já pré-selecionada para o usuário colocar em "Estou", mas devido o problema de cima, fiquei sem vontade de ver como faz, mas a dúvida permanece, queria saber como implementa.
 
