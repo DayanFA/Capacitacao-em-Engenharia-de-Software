@@ -1,4 +1,5 @@
 # Aprendizado
+
 Dentre os aprendizados que obtive duranta a execução da atividade 1
 
 • Ao implementar as operações CRUD, aprendi a manipular dados no banco de dados a partir do código C#. Isso envolveu a criação de métodos para inserir, recuperar, atualizar e excluir registros do banco de dados. Também aprendi a lidar com erros de validação e a implementar mensagens de erro para o usuário final.
@@ -8,6 +9,7 @@ Dentre os aprendizados que obtive duranta a execução da atividade 1
 • Essas habilidades são importantes para desenvolver aplicações web, desktop ou móveis que precisam armazenar e recuperar informações de um banco de dados. Depois de uns meses, finalmente entendi como resolver um outro problema que eu estava tendo com PHP.
 
 # Dúvida
+
 Dentre as dúvidas que sugiram durante a execução da atividade 1
 
 • Queria colocar data com ano, mês e dia, e usar número inteiro para as notas, mas quando uso "int nota = Convert.ToInt32(campo_nota.Text);", ou quando faço o mesmo pra data, usando "DateTime data = DateTime.Parse(campo_data.Text);", ele fala que a string ta errada dai não consigo enviar, nem editar, consigo deletar apenas, a única solução foi usar float pra burlar tudo e reduzir apenas para ano.
