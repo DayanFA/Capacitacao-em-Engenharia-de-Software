@@ -14,6 +14,6 @@ Dentre as dúvidas que sugiram durante a execução da atividade 2
 
 • Tem como efetuar um push selecionando uma pasta especifica? Só conseguir colocar os arquivos que queria no GitHub fazendo push criando um novo repositório, dai baixando e fazendo upload pra pasta que eu queria.
 
-• Minha calculadora tem um problema que mesmo olhando todo o código não conseguir arrumar, basicamente quando coloco para subtrair ou para dividir os números, dai aperto "=" mais de uma vez, ele não continuar o processo, ou seja, ele apenas dar o resultado da primeira sequência, quando multiplico e somo vai, mas as outras duas operações não vai, tentei quase tudo, mas não deu certo.
+• Minha calculadora tem um problema que mesmo olhando todo o código não conseguir arrumar, basicamente quando coloco para subtrair ou para dividir os números, dai aperto "=" mais de uma vez, ele não continua o processo, ou seja, ele apenas dar o resultado da primeira sequência, quando multiplico e somo vai, mas as outras duas operações não vai, tentei quase tudo, mas não deu certo.
 
 
