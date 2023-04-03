@@ -1,3 +1,10 @@
+# Curso de Programação em C#
+Módulo integrante do Curso de Engenharia de Software em parceria entre Ufac e Compal
+
+Período: 15 a 27 de março de 2023
+
+Laboratório de Estatística, Campus Ufac, Rio Branco/AC
+
 # Exercícios de avaliação final do módulo 03 - Programação em C#
 
 Exercício 1 - Utilizando o Visual Studio, construir um formulário (Forms C#) com conexão com banco de  dados, com as operações de CRUD (Create, Read, Update, Delete), ou seja, Criar, Ler, Atualizar e Deletar registros.
