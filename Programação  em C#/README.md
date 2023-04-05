@@ -19,3 +19,4 @@ Obs. utilizar conceitos de Orientação a Objetos.
 
 ![01 PLANO DE ENSINO - PROGRAMACAO C docx-2](https://user-images.githubusercontent.com/123272343/230222624-708ad601-f3e0-4ed3-981c-0f807cb33cfb.png)
 
+PDF: [01 PLANO DE ENSINO - PROGRAMACAO C.docx.pdf](https://github.com/DayanFA/Capacitacao-em-engenharia-de-software/files/11163459/01.PLANO.DE.ENSINO.-.PROGRAMACAO.C.docx.pdf)
