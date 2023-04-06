@@ -11,7 +11,7 @@ Acesso a banco de dados; Programação paralela; Assinatura e implantação de a
 • Exercício 2 -  Construir uma aplicação (Visual Studio>Forms C# ou console application), que simule uma calculadora, com as operações de somar, subtrair, multiplicar e dividir. Tendo como entrada dois número informados pelo usuário e um campo com o resultado da operação.
 Obs. utilizar conceitos de Orientação a Objetos.
 
-# Plano de atividades
+# Plano de ensino
 
 ![01 PLANO DE ENSINO - PROGRAMACAO C docx-1](https://user-images.githubusercontent.com/123272343/230222619-ecae1452-dc34-4a17-ab1c-36057e4f755b.png)
 
