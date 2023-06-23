@@ -1,8 +1,7 @@
 # Curso de Programação Back-end
 
-Comandos básicos; Conceitos de programação Orientada a Objetos; Leitura e escrita de arquivos;
-Acesso a banco de dados; Programação paralela; Assinatura e implantação de assemblies .NET Core,
-.NET Standard e .NET Framework; Visão geral de Padrões de Projeto.
+Introdução ao Back-End; Algoritmos recursivos e Estrutura de Dados; Python e Django; Mongo DB;
+Autenticação e Login; Integração de APIs. 
 
 # Exercícios de avaliação final do módulo 08 - Programação Back-end
 
