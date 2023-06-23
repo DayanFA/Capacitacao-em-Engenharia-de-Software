@@ -19,7 +19,7 @@ Autenticação e Login; Integração de APIs.
 
 * Exercício 2 - Projeto feito em sala.
 
-#Plano de ensino
+# Plano de ensino
 
 ![Plano de Ensino-1](https://github.com/DayanFA/Capacitacao-em-Engenharia-de-Software/assets/123272343/b828be26-2875-462e-8a6e-615b1a20cc96)
 
