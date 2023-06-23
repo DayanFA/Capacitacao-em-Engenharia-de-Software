@@ -17,8 +17,11 @@ Autenticação e Login; Integração de APIs.
 ↪ Solicite o nome, a altura e o peso de 5 pessoas, apos isso, amazene estas informações em um dicionário, em que a chave é o nome. Por fim, quando o usuário digitar um dos nomes presente, deve-se calcular o IMC e exibir o resultado.
 
 
-* Exercício 2 -  Construir uma aplicação (Visual Studio>Forms C# ou console application), que simule uma calculadora, com as operações de somar, subtrair, multiplicar e dividir. Tendo como entrada dois número informados pelo usuário e um campo com o resultado da operação.
-Obs. utilizar conceitos de Orientação a Objetos.
+* Exercício 2 -  Para melhorar o projeto, vamos adicionar novas funcionalidades a nossa app.
+1. Enviar o projeto para o github (exceto o venv) no estado atual.
+2. Os convidados deverão ter um usuário para acessar o sistema (criar relacionamento OneToOneField para User). Com isso eles poderão adicionar notas (anotações ou observações) ao evento. Edite os modelos que forem necessários.
+3. Fazer commit de todas as alterações e enviar ao github.
+4. Enviar a URL do repositorio aqui.
 
 #Plano de ensino
 
