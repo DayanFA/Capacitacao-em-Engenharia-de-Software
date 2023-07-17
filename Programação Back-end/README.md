@@ -5,6 +5,8 @@ Autenticação e Login; Integração de APIs.
 
 # Exercícios de avaliação final do módulo 08 - Programação Back-end
 
+* Aula - Conteúdos em aula.
+
 * Exercício 1 -  Para cada um dos problemas a seguir, apresente uma implementação em python, adotando as estruturas de dados e organização solicitadas.
 
 
